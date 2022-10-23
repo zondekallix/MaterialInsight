@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+.menuPrincipalClaseVisible{
+    visibility: visible;
+    position:absolute;
+    top: 10;;
+}
+
+.menuPrincipalClaseOculta{
+    visibility: hidden;
+    position:absolute;
+    top: 10;
+}
+
+.menuPrincipal{
+    visibility: visible;
+}
